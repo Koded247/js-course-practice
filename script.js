@@ -8,4 +8,5 @@ function changeColors(){
 
   if(index > colors.length -1)
   index = 0;
+
 }
